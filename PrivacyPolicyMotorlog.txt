@@ -1,0 +1,32 @@
+La siguiente Política de Privacidad ("Política de Privacidad") se aplica a la app Motorlog (la "App") y otro software, proporcionado en relación con las aplicaciones y los servicios (colectivamente los "Servicios") puestos a disposición por LeodevCL (el "Desarrollador"), y describe cómo recogemos, protegemos, usamos y compartimos la información recopilada sobre usted en nuestro Sitio o a través del software.
+
+AL UTILIZAR NUESTROS SERVICIOS, USTED ACEPTA LOS TÉRMINOS DE ESTA POLÍTICA DE PRIVACIDAD Y NUESTROS TÉRMINOS DE SERVICIO, YA QUE PUEDEN SER MODIFICADOS O ENMENDADOS DE VEZ EN CUANDO POR EL DESARROLLADOR EN SU FUENTE A SU DISCRECIÓN. CUALQUIER MODIFICACIÓN DE ESTA POLÍTICA DE PRIVACIDAD ENTRARÁ EN VIGOR EN EL MOMENTO EN QUE SE PUBLIQUE EN EL SITIO, Y CADA VEZ QUE USTED ACCEDA O UTILICE CUALQUIERA DE LOS SERVICIOS, ACEPTARÁ QUEDAR OBLIGADO POR ESTA POLÍTICA DE PRIVACIDAD, CON SUS MODIFICACIONES. SI NO ESTÁ DE ACUERDO, DEBE DEJAR DE UTILIZAR LOS PRODUCTOS O SERVICIOS DISPUESTOS INMEDIATAMENTE.
+
+Los términos en mayúsculas que no están definidos en esta Política de Privacidad tienen el significado que se les da en nuestras Condiciones de Servicio.
+
+Las palabras "nosotros", "nos" y "nuestro" aludes directamente al Desarrollador. Las palabras "usted" y "su" se refiere a la persona que accede o utiliza los Productos o Servicios. En la medida en que usted accede o utiliza los Servicios como empleado, gerente, miembro o agente de cualquier entidad, usted también acepta esta Política de Privacidad en nombre de dicho empleador, director u otra entidad.
+
+GESTIÓN DE LA INFORMACIÓN
+
+1. Motorlog no recoge, solicita ni almacena ningún tipo de información en relación al uso de nuestros productos y servicios, todos los datos que gestionados por Motorlog y software asociado queda exclusivamente en el propio dispositivo donde se utilice.
+
+2. El en el caso de utilizar funciones de Motorlog asociadas al clima, se utilizarán datos de posicionamiento GPS, los cuales son transferidos directamente a la API de openweathermap.org, quienes proveen la información requerida, puede consultar sus políticas de privacidad directamente en https://openweather.co.uk/privacy-policy.
+
+PERMISOS DE LA APLICACIÓN
+
+1. Motorlog utiliza permisos para ejecutarse de forma correcta y proveer las funciones y experiencia de uso requeridas por el Desarrollador, los permisos principales son:
+
+a) GPS: Para servicios del proveedor de datos climatológicos (ver punto 2 de GESTIÓN DE LA INFORMACIÓN).
+b) Archivos: Para poder acceder, leer y escribir archivos relacionados a las funciones propias de Motorlog
+c) Cámara: Para poder tomar fotografías que se puedan agregar al registro de motocicletas de Motorlog.
+
+USO DE LA CÁMARA
+
+Motorlog utiliza la cámara ÚNICAMENTE para la función de agregar 1 foto a los perfiles de cada motociclet que se agregue y nada más.
+
+
+
+Actualición Oct 30, 2022
+© 2022 LeodevCL
+
+
